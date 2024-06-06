@@ -16,7 +16,7 @@
 
 Установите npm-пакет с помощью команды:
 ```sh
-$ npm i your-awesome-plugin-name
+npm i your-awesome-plugin-name
 ```
 
 ### Разработка
@@ -27,15 +27,15 @@ $ npm i your-awesome-plugin-name
 Для установки зависимостей, выполните команду:
 windows:
 ```sh
-$ pip insatll reguirements.txt
+pip insatll reguirements.txt
 ```
 linux:
 ```sh
-$ pip3 insatll reguirements.txt
+pip3 insatll reguirements.txt
 ```
 mac:
 ```sh
-$ python -m pip install requirements.txt
+python -m pip install requirements.txt
 ```
 
 ### Запуск Development сервера
